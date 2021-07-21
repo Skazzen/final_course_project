@@ -1,0 +1,4 @@
+.idea
+.pytest_chache
+*.__pychache__/
+env/
