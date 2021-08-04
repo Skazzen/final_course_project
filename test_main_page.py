@@ -1,4 +1,5 @@
 from .pages.main_page import MainPage
+from .pages.main_page import login_page
 
 
 
